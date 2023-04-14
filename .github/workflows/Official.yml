@@ -37,6 +37,7 @@ on:
           - 'aarch64'
           - 'phicomm_k3'
           - 'x86_64'
+          - 'xiaomi_mi_router_3_pro'
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
         required: true
